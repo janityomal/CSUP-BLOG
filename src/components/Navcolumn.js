@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 import Logo from '../img/logo.png';
 
-function Header() {
+function Navcolumn() {
 	return (
 		<header>
 			<div className="header-container">
@@ -24,4 +24,4 @@ function Header() {
 	);
 }
 
-export default Header;
+export default Navcolumn;
